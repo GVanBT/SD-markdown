@@ -1,6 +1,6 @@
 SD-markdown tutorial
 # Pannekoeken recept.
-()[images/IMG_3947.jpg.webp]
+![Image of a pancake](image/IMG_3947.jpg.webp)
 
 ## Benodigdheden
 * 2 eieren
