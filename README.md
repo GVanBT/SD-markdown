@@ -1,6 +1,6 @@
 SD-markdown tutorial
 # Pannekoeken recept.
-[https://www.lekkerensimpel.com/wp-content/uploads/2016/10/IMG_3947.jpg.webp]
+()[images/IMG_3947.jpg.webp]
 
 ## Benodigdheden
 * 2 eieren
